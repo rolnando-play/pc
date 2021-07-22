@@ -6,7 +6,7 @@
       "web": "no",
       "img": "sudamericana",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Edge2",
+      "ua": "Edge",
       "origin": "",
       "referer": ""
     },
@@ -15,7 +15,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_2A/ABC_TV_C4.mpd",
       "web": "no",
       "img": "abc",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -25,7 +25,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
       "web": "no",
       "img": "5dias",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -36,7 +36,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_2A/C9N_C4.mpd",
       "web": "no",
       "img": "c9n",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -66,7 +66,7 @@
       "link": "https://cdn.cvattv.com.ar/live/live/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
       "web": "no",
       "img": "gen",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -108,7 +108,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
       "web": "no",
       "img": "latele",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -160,7 +160,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd",
       "web": "no",
       "img": "npy",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -192,7 +192,7 @@
       "link": " https://edge-live13-sl.cvattv.com.ar/live/live/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
       "web": "no",
       "img": "pytv",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -202,7 +202,7 @@
       "link": " https://59ce1298bfb98.streamlock.net/paraguayhd/paraguayhd/playlist.m3u8",
       "web": "no",
       "img": "pyhd",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -213,7 +213,7 @@
       "link": " https://edge-live13-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
       "web": "no",
       "img": "paravision",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -245,7 +245,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
       "web": "no",
       "img": "snt",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -277,7 +277,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd",
       "web": "no",
       "img": "surtv",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -287,7 +287,7 @@
       "link": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd",
       "web": "no",
       "img": "tvcamara",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -309,7 +309,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
       "web": "no",
       "img": "telefuturo",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -319,7 +319,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
       "web": "no",
       "img": "rpc",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -329,7 +329,7 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
       "web": "no",
       "img": "unicanal",
-      "license": "https://iptvtucuman.com/sv-py",
+      "license": "http://livepy.000webhostapp.com/licences/py.php",
       "ua": "Edge2",
       "origin": "",
       "referer": ""
@@ -2157,7 +2157,7 @@
       "web": "no",
       "img": "wins",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Edge2",
+      "ua": "Edge",
       "origin": "",
       "referer": ""
     },
@@ -2167,7 +2167,7 @@
       "web": "no",
       "img": "wins+",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Edge2",
+      "ua": "Edge",
       "origin": "",
       "referer": ""
     }
