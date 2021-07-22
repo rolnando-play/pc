@@ -6,7 +6,7 @@
       "web": "no",
       "img": "sudamericana",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Edge",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -15,8 +15,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_2A/ABC_TV_C4.mpd",
       "web": "no",
       "img": "abc",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -25,8 +25,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
       "web": "no",
       "img": "5dias",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -36,8 +36,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_2A/C9N_C4.mpd",
       "web": "no",
       "img": "c9n",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -66,8 +66,8 @@
       "link": "https://cdn.cvattv.com.ar/live/live/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
       "web": "no",
       "img": "gen",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -77,7 +77,7 @@
       "web": "si",
       "img": "hei",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "https://player.castr.io",
       "referer": "https://player.castr.io/"
     },
@@ -87,7 +87,7 @@
       "web": "no",
       "img": "koa",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -108,8 +108,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
       "web": "no",
       "img": "latele",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -129,7 +129,7 @@
       "web": "no",
       "img": "limtv",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -141,7 +141,7 @@
       "web": "no",
       "img": "mitv",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "http://www.radiosenparaguay.com",
       "referer": "http://www.radiosenparaguay.com/mitv"
     },
@@ -151,7 +151,7 @@
       "web": "si",
       "img": "mas",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -160,8 +160,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd",
       "web": "no",
       "img": "npy",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -192,8 +192,8 @@
       "link": " https://edge-live13-sl.cvattv.com.ar/live/live/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
       "web": "no",
       "img": "pytv",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -202,8 +202,8 @@
       "link": " https://59ce1298bfb98.streamlock.net/paraguayhd/paraguayhd/playlist.m3u8",
       "web": "no",
       "img": "pyhd",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -213,8 +213,8 @@
       "link": " https://edge-live13-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
       "web": "no",
       "img": "paravision",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -226,7 +226,7 @@
       "web": "no",
       "img": "rcc",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -245,8 +245,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
       "web": "no",
       "img": "snt",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -257,7 +257,7 @@
       "web": "no",
       "img": "este",
       "license": "si",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -277,8 +277,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd",
       "web": "no",
       "img": "surtv",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -287,8 +287,8 @@
       "link": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd",
       "web": "no",
       "img": "tvcamara",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -300,7 +300,7 @@
       "web": "no",
       "img": "tvs",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "http://www.desdeparaguay.net",
       "referer": "http://www.desdeparaguay.net/external/tvs.aspx"
     },
@@ -309,8 +309,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
       "web": "no",
       "img": "telefuturo",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -319,8 +319,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd",
       "web": "no",
       "img": "rpc",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -329,8 +329,8 @@
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
       "web": "no",
       "img": "unicanal",
-      "license": "http://livepy.000webhostapp.com/licences/py.php",
-      "ua": "Chrome",
+      "license": "https://iptvtucuman.com/sv-py",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -360,7 +360,7 @@
       "web": "no",
       "img": "a24",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -370,7 +370,7 @@
       "web": "no",
       "img": "a3cine",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -380,7 +380,7 @@
       "web": "no",
       "img": "a3series",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -390,7 +390,7 @@
       "web": "no",
       "img": "ae",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -400,7 +400,7 @@
       "web": "no",
       "img": "amc",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -410,7 +410,7 @@
       "web": "no",
       "img": "AXN",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -420,7 +420,7 @@
       "web": "no",
       "img": "azuno",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -430,7 +430,7 @@
       "web": "no",
       "img": "az7",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -440,7 +440,7 @@
       "web": "no",
       "img": "america",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -450,7 +450,7 @@
       "web": "no",
       "img": "americap",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -461,7 +461,7 @@
       "web": "no",
       "img": "animal",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -471,7 +471,7 @@
       "web": "no",
       "img": "antena3",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -481,7 +481,7 @@
       "web": "no",
       "img": "argentinisima",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -491,7 +491,7 @@
       "web": "no",
       "img": "baby",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -501,7 +501,7 @@
       "web": "no",
       "img": "band",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -511,7 +511,7 @@
       "web": "no",
       "img": "bein",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -522,7 +522,7 @@
       "web": "no",
       "img": "beines",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -532,7 +532,7 @@
       "web": "no",
       "img": "beinliga",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -542,7 +542,7 @@
       "web": "no",
       "img": "bitme",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -553,7 +553,7 @@
       "web": "no",
       "img": "boomerang",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -563,7 +563,7 @@
       "web": "no",
       "img": "c5n",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -573,7 +573,7 @@
       "web": "no",
       "img": "caracol",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -584,7 +584,7 @@
       "web": "no",
       "img": "cnn",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -594,7 +594,7 @@
       "web": "no",
       "img": "canal4uy",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -606,7 +606,7 @@
       "web": "no",
       "img": "canal5",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -616,7 +616,7 @@
       "web": "no",
       "img": "canal9",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -626,7 +626,7 @@
       "web": "no",
       "img": "canal10uy",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -639,7 +639,7 @@
       "web": "no",
       "img": "canal26",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -649,7 +649,7 @@
       "web": "no",
       "img": "rural",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -659,7 +659,7 @@
       "web": "no",
       "img": "cartoon",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -669,7 +669,7 @@
       "web": "no",
       "img": "cinear",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -679,7 +679,7 @@
       "web": "no",
       "img": "cinecanal",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -689,7 +689,7 @@
       "web": "no",
       "img": "Cinemax",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -699,7 +699,7 @@
       "web": "no",
       "img": "Cinemax",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -709,7 +709,7 @@
       "web": "no",
       "img": "ciudadm",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -720,7 +720,7 @@
       "web": "no",
       "img": "clarosports",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -730,7 +730,7 @@
       "web": "no",
       "img": "comedy",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -740,7 +740,7 @@
       "web": "no",
       "img": "comedy",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -751,7 +751,7 @@
       "web": "no",
       "img": "cronica",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -762,7 +762,7 @@
       "web": "no",
       "img": "dazn1",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -772,7 +772,7 @@
       "web": "no",
       "img": "deportv",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -782,7 +782,7 @@
       "web": "no",
       "img": "depelicula",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -792,7 +792,7 @@
       "web": "no",
       "img": "depeliculap",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -804,7 +804,7 @@
       "web": "no",
       "img": "dtv",
       "license": "https://iptvtucuman.com/dtv1_widevine",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -814,7 +814,7 @@
       "web": "no",
       "img": "dtv2",
       "license": "https://iptvtucuman.com/dtv2_widevine",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -824,7 +824,7 @@
       "web": "no",
       "img": "dtv+",
       "license": "https://iptvtucuman.com/dtv3_widevine",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -834,7 +834,7 @@
       "web": "no",
       "img": "discovery",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -844,7 +844,7 @@
       "web": "no",
       "img": "hh",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -854,7 +854,7 @@
       "web": "no",
       "img": "dkids",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -864,7 +864,7 @@
       "web": "no",
       "img": "science",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -874,7 +874,7 @@
       "web": "no",
       "img": "tlc",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -884,7 +884,7 @@
       "web": "no",
       "img": "theater",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -894,7 +894,7 @@
       "web": "no",
       "img": "turbo",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -904,7 +904,7 @@
       "web": "no",
       "img": "world",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -914,7 +914,7 @@
       "web": "no",
       "img": "disney",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -924,7 +924,7 @@
       "web": "no",
       "img": "junior",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -934,7 +934,7 @@
       "web": "no",
       "img": "disneyxd",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -944,7 +944,7 @@
       "web": "no",
       "img": "distrito",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -957,7 +957,7 @@
       "web": "no",
       "img": "e",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -967,7 +967,7 @@
       "web": "no",
       "img": "ecuavisa",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -979,7 +979,7 @@
       "web": "no",
       "img": "espn",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -989,7 +989,7 @@
       "web": "no",
       "img": "espn2",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -999,7 +999,7 @@
       "web": "no",
       "img": "espn3",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1009,7 +1009,7 @@
       "web": "no",
       "img": "espn+",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1019,7 +1019,7 @@
       "web": "no",
       "img": "espn",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1029,7 +1029,7 @@
       "web": "no",
       "img": "espn2",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1039,7 +1039,7 @@
       "web": "no",
       "img": "espn3",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1049,7 +1049,7 @@
       "web": "no",
       "img": "espn+",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1059,7 +1059,7 @@
       "web": "no",
       "img": "europaeu",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1069,7 +1069,7 @@
       "web": "no",
       "img": "eurocha",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1083,7 +1083,7 @@
       "web": "no",
       "img": "ewtn",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1093,7 +1093,7 @@
       "web": "no",
       "img": "gourmet",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1103,7 +1103,7 @@
       "web": "no",
       "img": "eltrece",
       "license": "https://sv.tsnt2.xyz/cv.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1113,7 +1113,7 @@
       "web": "no",
       "img": "encuentro",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1124,7 +1124,7 @@
       "web": "no",
       "img": "fx",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1134,7 +1134,7 @@
       "web": "no",
       "img": "fxm",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1144,7 +1144,7 @@
       "web": "no",
       "img": "food",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1154,7 +1154,7 @@
       "web": "no",
       "img": "fs",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1164,7 +1164,7 @@
       "web": "no",
       "img": "fs2",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1174,7 +1174,7 @@
       "web": "no",
       "img": "fs3",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1184,7 +1184,7 @@
       "web": "no",
       "img": "fsp",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1194,7 +1194,7 @@
       "web": "no",
       "img": "fs",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1204,7 +1204,7 @@
       "web": "no",
       "img": "fs2",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1214,7 +1214,7 @@
       "web": "no",
       "img": "fs3",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1224,7 +1224,7 @@
       "web": "no",
       "img": "garage",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1244,7 +1244,7 @@
       "web": "no",
       "img": "goltv",
       "license": "no",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1255,7 +1255,7 @@
       "web": "no",
       "img": "golden",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1265,7 +1265,7 @@
       "web": "no",
       "img": "goldenp",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1275,7 +1275,7 @@
       "web": "no",
       "img": "goldenpremier",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1287,7 +1287,7 @@
       "web": "no",
       "img": "hbo",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1297,7 +1297,7 @@
       "web": "no",
       "img": "hbo2",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1307,7 +1307,7 @@
       "web": "no",
       "img": "hbof",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1317,7 +1317,7 @@
       "web": "no",
       "img": "hbomundi",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1327,7 +1327,7 @@
       "web": "no",
       "img": "hbop",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1337,7 +1337,7 @@
       "web": "no",
       "img": "hbopop",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1347,7 +1347,7 @@
       "web": "no",
       "img": "hbos",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1357,7 +1357,7 @@
       "web": "no",
       "img": "hbox",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1367,7 +1367,7 @@
       "web": "no",
       "img": "hbo",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1378,7 +1378,7 @@
       "web": "no",
       "img": "hbo2",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1389,7 +1389,7 @@
       "web": "no",
       "img": "hbof",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1399,7 +1399,7 @@
       "web": "no",
       "img": "hbomundi",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1409,7 +1409,7 @@
       "web": "no",
       "img": "hbopop",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1419,7 +1419,7 @@
       "web": "no",
       "img": "hbos",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1429,7 +1429,7 @@
       "web": "no",
       "img": "hbox",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1441,7 +1441,7 @@
       "web": "no",
       "img": "hgtv",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1451,7 +1451,7 @@
       "web": "no",
       "img": "hgtv",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1464,7 +1464,7 @@
       "web": "no",
       "img": "history",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1474,7 +1474,7 @@
       "web": "no",
       "img": "h2",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1484,7 +1484,7 @@
       "web": "no",
       "img": "hola",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1494,7 +1494,7 @@
       "web": "no",
       "img": "id",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1504,7 +1504,7 @@
       "web": "no",
       "img": "isat",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1514,7 +1514,7 @@
       "web": "no",
       "img": "estrellas",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1524,7 +1524,7 @@
       "web": "no",
       "img": "lifetime",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1536,7 +1536,7 @@
       "web": "no",
       "img": "muchm",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1547,7 +1547,7 @@
       "web": "no",
       "img": "maschic",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1558,7 +1558,7 @@
       "web": "no",
       "img": "mtv",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1568,7 +1568,7 @@
       "web": "no",
       "img": "mtvh",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1578,7 +1578,7 @@
       "web": "no",
       "img": "nba",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1588,7 +1588,7 @@
       "web": "no",
       "img": "natgeo",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1598,7 +1598,7 @@
       "web": "no",
       "img": "natgeok",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1608,7 +1608,7 @@
       "web": "no",
       "img": "natgeow",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1618,7 +1618,7 @@
       "web": "no",
       "img": "net",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1628,7 +1628,7 @@
       "web": "no",
       "img": "nick",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1638,7 +1638,7 @@
       "web": "no",
       "img": "nickjr",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1648,7 +1648,7 @@
       "web": "no",
       "img": "paramount",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1658,7 +1658,7 @@
       "web": "no",
       "img": "pasiones",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1668,7 +1668,7 @@
       "web": "no",
       "img": "pxsports",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1678,7 +1678,7 @@
       "web": "no",
       "img": "rai",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1688,7 +1688,7 @@
       "web": "no",
       "img": "rcnco",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1698,7 +1698,7 @@
       "web": "no",
       "img": "rt",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1720,7 +1720,7 @@
       "web": "no",
       "img": "sony",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1730,7 +1730,7 @@
       "web": "no",
       "img": "space",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1740,7 +1740,7 @@
       "web": "no",
       "img": "sportv",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1750,7 +1750,7 @@
       "web": "no",
       "img": "sportv2",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1760,7 +1760,7 @@
       "web": "no",
       "img": "sportv3",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1770,7 +1770,7 @@
       "web": "no",
       "img": "action",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1780,7 +1780,7 @@
       "web": "no",
       "img": "fox",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1790,7 +1790,7 @@
       "web": "no",
       "img": "cinema",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1800,7 +1800,7 @@
       "web": "no",
       "img": "classics",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1810,7 +1810,7 @@
       "web": "no",
       "img": "fcomedy",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1820,7 +1820,7 @@
       "web": "no",
       "img": "family",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1830,7 +1830,7 @@
       "web": "no",
       "img": "movies",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1840,7 +1840,7 @@
       "web": "no",
       "img": "life",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1850,7 +1850,7 @@
       "web": "no",
       "img": "series",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1860,7 +1860,7 @@
       "web": "no",
       "img": "studio",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1870,7 +1870,7 @@
       "web": "no",
       "img": "syfy",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1880,7 +1880,7 @@
       "web": "no",
       "img": "tbs",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1890,7 +1890,7 @@
       "web": "no",
       "img": "tcmi",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1901,7 +1901,7 @@
       "web": "no",
       "img": "tn",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1911,7 +1911,7 @@
       "web": "no",
       "img": "tnt",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1921,7 +1921,7 @@
       "web": "no",
       "img": "tnts",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1931,7 +1931,7 @@
       "web": "no",
       "img": "tntsports",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1941,7 +1941,7 @@
       "web": "no",
       "img": "tntsports",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1952,7 +1952,7 @@
       "web": "no",
       "img": "tves",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1962,7 +1962,7 @@
       "web": "no",
       "img": "tvp",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1972,7 +1972,7 @@
       "web": "no",
       "img": "teleamazonas",
       "license": "a",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1982,7 +1982,7 @@
       "web": "no",
       "img": "teledoce",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -1992,7 +1992,7 @@
       "web": "no",
       "img": "telefe",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2002,7 +2002,7 @@
       "web": "no",
       "img": "telemundo",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2012,7 +2012,7 @@
       "web": "no",
       "img": "tvciudad",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2024,7 +2024,7 @@
       "web": "no",
       "img": "tlnovelas",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2034,7 +2034,7 @@
       "web": "no",
       "img": "tooncast",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2044,7 +2044,7 @@
       "web": "no",
       "img": "tru",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2054,7 +2054,7 @@
       "web": "no",
       "img": "tudn",
       "license": "http://livepy.000webhostapp.com/licences/izzi.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2065,7 +2065,7 @@
       "web": "no",
       "img": "tvchile",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2075,7 +2075,7 @@
       "web": "no",
       "img": "tvnuruguay",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2086,7 +2086,7 @@
       "web": "no",
       "img": "tyc",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2096,7 +2096,7 @@
       "web": "no",
       "img": "universal",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2107,7 +2107,7 @@
       "web": "no",
       "img": "vh1",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2117,7 +2117,7 @@
       "web": "no",
       "img": "vh1mega",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2127,7 +2127,7 @@
       "web": "no",
       "img": "vtv",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "a",
       "referer": "a"
     },
@@ -2137,7 +2137,7 @@
       "web": "no",
       "img": "vtvplus",
       "license": "http://livepy.000webhostapp.com/licences/uy.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "f",
       "referer": "h"
     },
@@ -2147,7 +2147,7 @@
       "web": "no",
       "img": "warner",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2157,7 +2157,7 @@
       "web": "no",
       "img": "wins",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Edge",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     },
@@ -2167,7 +2167,7 @@
       "web": "no",
       "img": "wins+",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Edge",
+      "ua": "Edge2",
       "origin": "",
       "referer": ""
     }
