@@ -1,54 +1,14 @@
 {
   "canales": [
   {
-      "name": "Argentinos vs. River Plate",
+      "name": "Sudamericana",
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
       "web": "no",
-      "img": "libertadores",
-      "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
-      "origin": "",
-      "referer": ""
-    },
-    {
-      "name": "Argentinos vs. River Plate 2",
-      "link": "https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/master.m3u8",
-      "web": "no",
-      "img": "libertadores",
-      "license": "no",
-      "ua": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36",
-      "origin": "https://lowend.xyz",
-      "referer": "https://lowend.xyz/stream/54014.html"
-    },
-    {
-      "name": "Flamengo vs. Defensa y Justicia",
-      "link": "https://edge-live13-sl.cvattv.com.ar/live/c2live/ESPN_HD/SA_Live_dash_enc_2A/ESPN_HD.mpd",
-      "web": "no",
-      "img": "libertadores",
-      "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
-      "origin": "",
-      "referer": ""
-    },
-  {
-      "name": "Sudamericana",
-      "link": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
-      "web": "no",
       "img": "sudamericana",
       "license": "http://livepy.000webhostapp.com/licences/one.php",
-      "ua": "Chrome",
+      "ua": "Edge",
       "origin": "",
       "referer": ""
-    },
-    {
-      "name": "Sudamericana 2",
-      "link": "https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/master.m3u8",
-      "web": "no",
-      "img": "sudamericana",
-      "license": "no",
-      "ua": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36",
-      "origin": "https://lowend.xyz",
-      "referer": "https://lowend.xyz/stream/54014.html"
     },
   {
       "name": "ABC TV",
