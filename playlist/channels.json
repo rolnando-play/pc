@@ -1,6 +1,26 @@
 {
   "canales": [
   {
+      "name": "Libertadores",
+      "link": "https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd",
+      "web": "no",
+      "img": "libertadores",
+      "license": "http://livepy.000webhostapp.com/licences/one.php",
+      "ua": "Edge2",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Libertadores 2",
+      "link": "https://e10.cdnfoxtv.me/ingestnb4s/fox1ar/master.m3u8",
+      "web": "no",
+      "img": "libertadores",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36",
+      "origin": "https://lowend.xyz",
+      "referer": "https://lowend.xyz/stream/54014.html"
+    },
+  {
       "name": "Sudamericana",
       "link": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
       "web": "no",
@@ -9,6 +29,16 @@
       "ua": "Edge2",
       "origin": "",
       "referer": ""
+    },
+    {
+      "name": "Sudamericana 2",
+      "link": "https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/master.m3u8",
+      "web": "no",
+      "img": "sudamericana",
+      "license": "no",
+      "ua": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36",
+      "origin": "https://lowend.xyz",
+      "referer": "https://lowend.xyz/stream/54014.html"
     },
   {
       "name": "ABC TV",
